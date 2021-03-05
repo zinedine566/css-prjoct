@@ -1,0 +1,91 @@
+body {
+    margin: 0; 
+    padding: 0;
+}
+li {
+    list-style-type: none;
+}
+nav{
+    overflow: hidden;
+    background-color: #000000;
+    position: fixed;
+    height: 50px;
+    padding: 25px;
+    width: 100%;
+    opacity: 1;
+} 
+.button {
+    
+    margin-top: 10px;
+ 
+}
+
+article {  
+    padding-top: 100px;
+}
+
+h1 , h2 {
+     color:#000000;
+      text-shadow: rgb(0, 84, 240) 3px 4px 10px;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.zinou {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.name { 
+    border-radius:px;
+    color: black;
+    border:1px solid;
+    border-color:black;
+    background-color: blanchedalmond;
+    margin: 0;
+}
+.password{ 
+     border: 1px solid;
+     background-color: blanchedalmond;
+     color:black;
+     margin: 1px;
+     border-color:black
+}
+#first {
+     margin:6px;
+     padding: 10px 12px 10px 12px;
+}
+form{
+    background-color: #523a3c;
+color: #FFFAE1;
+padding: 20px 0 10px 0;
+text-align: center;
+}
+.radio{
+     color: black;
+     background-color: blanchedalmond;
+}
+.checkbox{
+     color: black; 
+     font-family: cursive;
+     margin:5px;    
+     padding: 10px;
+}
+.language {
+    size: 10px;
+}
+
+#image {
+background-image: url(./inspiration1.jpeg);
+background-attachment: fixed;
+    height: 100%;
+
+}
+
+.premiertrait {
+    height: 2px;
+    width: 25%;
+     background-color: black;
+     margin: -3px auto;
+}
+h2 {
+    text-align: center;
+    font-family: cursive;
+}
